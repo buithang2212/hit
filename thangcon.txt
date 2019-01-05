@@ -1,0 +1,5 @@
+git status: thông báo file chua dc git theo dõi,xem trang thai thu muc
+git add *: thoi dõi file,them tat ca cac file vao git
+git commit -m "Add new file":xác nh?n
+git push: dong bo
+git clone : l?y d?a ch?
